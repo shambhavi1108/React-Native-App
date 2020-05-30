@@ -1,2 +1,2 @@
 # React-Native-App
-React native Application Flat Grid
+This is a React native Flat Grid.
